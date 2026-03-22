@@ -6,5 +6,7 @@ await db.end();
 console.log("🌱 Database seeded.");
 
 async function seed() {
-  // TODO
+  const folder = ["documents", "pictures", "music"];
+
+  for (const)
 }
